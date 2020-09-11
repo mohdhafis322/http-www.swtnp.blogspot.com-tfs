@@ -1,0 +1,15 @@
+versionCode=10
+HONOR CAM-L21
+android name=6.0
+android code=23
+FINGERPRINT=HONOR/CAM-L21/HWCAM-H:6.0/HUAWEICAM-L21/C223B131:user/release-keys
+java.lang.IllegalStateException
+	at android.media.MediaCodec.native_stop(Native Method)
+	at android.media.MediaCodec.stop(MediaCodec.java:1928)
+	at com.wow.number.function.paint.opengl.a.d.a(GeneratedMovie.java:130)
+	at com.wow.number.function.paint.opengl.a.c.a(ExportVideo.java:99)
+	at com.wow.number.function.paint.share.ShareFragment$8.run(ShareFragment.java:837)
+	at android.os.Handler.handleCallback(Handler.java:743)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:150)
+	at android.os.HandlerThread.run(HandlerThread.java:61)
